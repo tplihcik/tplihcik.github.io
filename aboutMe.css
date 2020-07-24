@@ -16,6 +16,9 @@ body
     float: left;
     position: absolute;
     top: 5%;
+    max-width: 100%;
+    height: auto;
+
 
 }
 
@@ -26,7 +29,7 @@ body
     padding: 4em;
     font-size: 1.25em;
     position: relative;
-    
+
 
 }
 
@@ -39,9 +42,9 @@ body
     position: absolute;
     float: left;
     left: 5%;
-    color: lightgray; 
-    
-    
+    color: lightgray;
+
+
 }
 
 .proficiencies
@@ -60,7 +63,7 @@ body
     float: right;
     right: 5%;
     color: lightgray;
-    
+
 }
 
 .experiences
@@ -68,13 +71,13 @@ body
     text-decoration-line: underline;
     color: lightgray;
 }
-    
+
 
 .navBar
 {
     text-align: center;
 
-    font: bold;    
+    font: bold;
 
     font-size: 1.6em;
 }

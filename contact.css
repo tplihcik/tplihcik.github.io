@@ -15,6 +15,7 @@ body
 {
     text-align: center;
 
+    color: white;
 }
 
 form
@@ -67,13 +68,15 @@ textarea
 
     height: 38px;
 
-    text-indent: -9999px;
+    color: gray;
 
     border: none;
 
     margin-top: 20px;
 
     cursor: pointer;
+
+   
 
 
 
