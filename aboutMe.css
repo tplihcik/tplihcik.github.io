@@ -1,0 +1,112 @@
+body
+{
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.aboutMeHeading
+{
+    text-align: center;
+    color: lightgray;
+
+}
+
+.headshot
+{
+    float: left;
+    position: absolute;
+    top: 5%;
+
+}
+
+.bioParagraph
+{
+    text-align: center;
+    color: lightgray;
+    padding: 4em;
+    font-size: 1.25em;
+    position: relative;
+    
+
+}
+
+.proficienciesDiv
+{
+    width: 300px;
+    border: 3px solid gray;
+    padding: 10px;
+    margin: 20px;
+    position: absolute;
+    float: left;
+    left: 5%;
+    color: lightgray; 
+    
+    
+}
+
+.proficiencies
+{
+    text-decoration-line: underline;
+    color: lightgray;
+}
+
+.experiencesDiv
+{
+    width: 300px;
+    border: 3px solid gray;
+    padding: 10px;
+    margin: 20px;
+    position: absolute;
+    float: right;
+    right: 5%;
+    color: lightgray;
+    
+}
+
+.experiences
+{
+    text-decoration-line: underline;
+    color: lightgray;
+}
+    
+
+.navBar
+{
+    text-align: center;
+
+    font: bold;    
+
+    font-size: 1.6em;
+}
+
+.navBar a
+{
+    padding-right: 1em;
+}
+
+a:link
+{
+    color: grey;
+
+    background-color: transparent;
+
+    text-decoration: none;
+}
+
+a:visited
+{
+    color: grey;
+
+    background-color: transparent;
+
+    text-decoration: none;
+}
+
+a:hover
+{
+    color: lightskyblue;
+
+    background-color: transparent;
+
+    text-decoration: underline;
+}
