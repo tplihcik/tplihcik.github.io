@@ -11,6 +11,12 @@ body
     font-family: Arial, Helvetica, sans-serif;
 }
 
+.notificationPara
+{
+    text-align: center;
+
+}
+
 form
 {
     margin: 0 auto;
@@ -42,10 +48,10 @@ input, textarea
 
     border-radius: 5px;
 
-    
+
 }
 
-input:focus, textarea:focus 
+input:focus, textarea:focus
 {
     border: 1px solid #97d6eb;
 }
@@ -55,7 +61,7 @@ textarea
     height: 213px;
 }
 
-#submit 
+#submit
 {
     width: 127px;
 
@@ -69,11 +75,11 @@ textarea
 
     cursor: pointer;
 
-    
-    
+
+
 }
 
-#submit:hover 
+#submit:hover
 {
 	opacity: .9;
 }
@@ -83,7 +89,7 @@ textarea
 {
     text-align: center;
 
-    font: bold;    
+    font: bold;
 
     font-size: 1.6em;
 }
@@ -130,4 +136,3 @@ label
 
     color: lightgray;
 }
-
